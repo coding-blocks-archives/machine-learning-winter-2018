@@ -6,3 +6,18 @@
 - `class 04`: Face Recognition using KNN
 - `class 05`: Linear Regression and Gradient Descent
 - `class 06`: K-means and most dominant color extraction
+- `class 07`: Decision Tress
+- `class 08`: Locally weighted Regression and nltk
+- `class 09`: Logistic Regression
+- `class 10`: Neural Networks introduction and numpy code
+- `class 11`: Neural Networks with Keras
+- `class 12`: Convolutional Neural Networks
+- `class 13`: CNN Architectures
+- `class 14`: Transfer Learning
+- `class 15`: Markov Chains
+- `class 16`: Autoencoders and PCA
+- `class 17`: Word Embeddings
+- `class 18-19`: F-RCNN and MobileNet
+- `class 19`: RNNs and LSTM
+- `class 21`: GANs
+- `class 22-23`: Image Captioning
